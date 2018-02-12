@@ -1,0 +1,15 @@
+{
+  "name": "TBot",
+  "version": "0.0.0",
+  "description": "simple bot app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonah",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
