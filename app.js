@@ -37,7 +37,7 @@ bot.on('message',(msg) => {
 	}
 });
 
-let port = process.argv[3];
+let port = 1230;
 /*
 app.get('/',function requestListener(req,res) {
 	res.sendFile(path.join(__dirname,'index.html'));
